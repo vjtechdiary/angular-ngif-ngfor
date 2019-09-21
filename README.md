@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tutorial 
 
-Read tutorial [Structural Directive:(NgIf & NgFor together)](https://vjtechdiary.blogspot.com/2019/09/structural-directive-ngfor-data.html) on [VJ Tech Diary](https://vjtechdiary.blogspot.com). 
+Read tutorial [Structural Directive:(NgIf & NgFor together)](https://vjtechdiary.blogspot.com/2019/09/structural-directive-in-angular-using.html) on [VJ Tech Diary](https://vjtechdiary.blogspot.com). 
 
 ## Install Dependencies
 
