@@ -1,0 +1,11 @@
+<!-- Implementataion of *ngFor & *ngIf -->
+<div>Displying values from the Array based on condition.</div>
+<div *ngFor="let number of numberArray">
+    <div *ngIf="number%2===0; else oddBlock">
+        <p>Even Number : {{number}}</p>
+    </div>
+    <ng-template #oddBlock>
+        <p>Odd Number: {{number}}</p>
+    </ng-template>
+</div>
+<router-outlet></router-outlet>
